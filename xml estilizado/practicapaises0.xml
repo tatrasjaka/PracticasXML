@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="../CSS/practicapaises0.css"?>
+
+<continente>
+
+<pais>
+<nombre>Espana</nombre>
+<capital>Madrid</capital>
+<idioma>espanol</idioma>
+</pais>
+
+<pais>
+<nombre>Francia</nombre>
+<capital>Paris</capital>
+<idioma>frances</idioma>
+</pais>
+
+<pais>
+<nombre>Inglaterra</nombre>
+<capital>Londres</capital>
+<idioma>ingles</idioma>
+</pais>
+
+<pais>
+<nombre>Alemania</nombre>
+<capital>Berlin</capital>
+<idioma>aleman</idioma>
+</pais>
+
+<pais>
+<nombre>Portugal</nombre>
+<capital>Lisboa</capital>
+<idioma>portugues</idioma>
+</pais>
+
+</continente>

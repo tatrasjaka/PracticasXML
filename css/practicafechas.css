@@ -1,0 +1,26 @@
+  /* Top 1 Right 2 Bottom 3 Left 4 */
+  fechas:before {
+    display: block;
+    width: 16.7%;
+    font-weight: bold;
+    font-size: 200%;
+    content: "Ejercicio 1, 27/07/2022";
+    margin: -.75em 0px .25em -.25em;
+    padding: .1em .25em;
+    background-color: #cdf;
+}
+
+fechas {
+    display: block;
+    margin: 2em 1em;
+    border: 4px solid #cdf;
+    padding: 0px 1em 0 0;
+    background-color: white;
+}
+fecha{
+  display: block;
+  margin-bottom: 0.8%;
+  font-weight: bold;
+  font-size: 150%;
+  margin-left: 0.5%;
+}

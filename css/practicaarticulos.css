@@ -1,0 +1,10 @@
+  /* Top 1 Right 2 Bottom 3 Left 4 */
+articulo{
+    padding: 1%;
+    margin-left: 1.5%;
+    border: 10px solid;
+    border-color: black;
+}
+articulos{
+    margin-top: 3%;
+}

@@ -1,0 +1,7 @@
+  /* Top 1 Right 2 Bottom 3 Left 4 */
+titulo, autor, fechaPublicacion {
+    display: list-item;
+    list-style: disc inside;
+    margin-left: 1%;
+    margin-top: 0.25%;
+  }
